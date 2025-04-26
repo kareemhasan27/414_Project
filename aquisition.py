@@ -14,6 +14,6 @@ import plotly.io as pio
 
 df = pd.read_csv("sprint1data.csv")
 
-display(df.head())
+df.head()
 display(df.describe().info())
-
+df.isnull().sum()
