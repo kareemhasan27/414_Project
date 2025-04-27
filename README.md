@@ -1,3 +1,4 @@
+## 414 Project
 This repository contains the code and resources for predicting mood swings using the RHMCD-20 dataset collected in Bangladesh. Leveraging machine learning models, we aim to identify individuals at elevated risk of rapid emotional fluctuations (mood swings) to support early intervention and targeted mental health strategies.
 
 Mood swings pose challenges to well-being and signal underlying conditions like anxiety or depression. In Bangladesh, cultural stigma leads to underreporting of mental health issues, making these approaches crucial. Using demographic and behavioral variables (age, gender, time spent indoors, stress levels, habit changes, mental health history, weight change, coping struggles, etc.), we trained tree-based models to predict mood swing severity and uncover predictors.
