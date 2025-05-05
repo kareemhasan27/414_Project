@@ -1,0 +1,15 @@
+- Python
+
+- numpy
+
+- pandas
+
+- matplotlib
+
+- scikit-learn
+
+- xgboost
+
+- catboost
+
+- jupyter or colab
